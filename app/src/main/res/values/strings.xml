@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Herbal Plants</string>
+    <string name="herbals_name">Nama Herbal</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="email">rijalmuhyi12@gmail.com</string>
+    <string name="name">Rijal Muhyidin</string>
+    <string name="detail_image">Detail Image</string>
+    <string name="deskripsi">Deskripsi :</string>
+    <string name="share">Bagikan</string>
+</resources>
